@@ -10,7 +10,7 @@
 4. train 데이터를 활용하여 test 데이터에 지도학습 방식으로 적용
 
 # 3. 개발 환경
-<img src = "[https://keras.io/examples/](https://keras.io/img/logo-k-keras-wb.png)">
+<img src = "https://keras.io/img/logo-k-keras-wb.png">
 
 # 4. 활용/참고 정보
 ttps://dacon.io/competitions/official/235870/codeshare/4171?page=3&dtype=recent
